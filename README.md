@@ -1,8 +1,7 @@
 Language Detection System
 
 Overview
-A Machine Learning + NLP project to automatically detect the language of a given text.
-Supports English, French, German, and Hindi.
+A Machine Learning + NLP project to automatically detect the language of a given text. Supports English, French, German, and Hindi.
 
 Project Structure
 ├── language_dataset_500.csv   # Dataset
